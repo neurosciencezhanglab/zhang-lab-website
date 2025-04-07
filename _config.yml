@@ -16,19 +16,3 @@ social_links:
     url: https://twitter.com/YOUR_TWITTER_HANDLE
   - name: LinkedIn
     url: https://www.linkedin.com/in/YOUR_LINKEDIN/
-
-main:
-  - title: "Home"
-    url: /
-
-  - title: "Research"
-    url: /research/
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Team"
-    url: /team/
-
-  - title: "Contact"
-    url: /contact/
