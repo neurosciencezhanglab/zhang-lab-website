@@ -1,2 +1,34 @@
 title: "My Lab Website"
-theme: minima  # Replace 'minima' with the theme you want
+description: "Research in Neuroscience and Synthetic Biology"
+baseurl: ""  # Leave this blank for a user site, set to '/REPOSITORY_NAME' for project site
+url: "https://YOUR_USERNAME.github.io"  # Your site URL
+theme: minima  # Change this if you want another theme
+author: "Jam Shen"
+
+# Markdown Configuration
+markdown: kramdown
+
+# Social Links (Add your own)
+social_links:
+  - name: GitHub
+    url: https://github.com/YOUR_USERNAME
+  - name: Twitter
+    url: https://twitter.com/YOUR_TWITTER_HANDLE
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/YOUR_LINKEDIN/
+
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Team"
+    url: /team/
+
+  - title: "Contact"
+    url: /contact/
